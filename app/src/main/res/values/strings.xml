@@ -1,0 +1,7 @@
+<resources>
+    <string name="aboutMe">
+        My name is Charles Best
+        I a m an android developer
+    </string>
+    <string name="app_name">Masterclass</string>
+</resources>
